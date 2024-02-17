@@ -5,8 +5,7 @@
 ```php
 # Inquisitive Full-stack Web Developer based in Pallisa, Uganda.
 ```
-<br /><br />
----
+
 
 ### Languages and Tools
 
