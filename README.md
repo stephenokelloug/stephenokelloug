@@ -1,9 +1,10 @@
-![Stephen Okello - Full-stack Develoer](images/profile.png)
+![Stephen Okello - Full-stack Develoer](images/git-cover.png)
 
 # Hey, I'm Stephen Okello! 👋
 
-### Inquisitive Full-stack Web Developer based in Pallisa, Uganda.
-
+```php
+# Inquisitive Full-stack Web Developer based in Pallisa, Uganda.
+```
 <br /><br />
 ---
 
