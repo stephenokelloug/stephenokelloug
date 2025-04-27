@@ -31,9 +31,32 @@
 <br /><br />
 ---
 
-### Projects
+### Portfolio & Projects
 
-- [Laravel Auth](https://github.com/delgont/auth)
-- [Schoolviser](https://github.com/schoolviser)
 ---
 
+<p align="left">
+  <img src="images/laravel.png" alt="Armor" width="50" />
+</p>
+
+[**Armor**](https://github.com/delgont/armor)  
+*Armor is a Laravel package that provides a powerful access control system through roles and permissions, along with flexible backend authentication.*
+
+
+[**Schoolviser**](https://github.com/schoolviser)  
+*A complete school management solution, offering modules for student management, attendance tracking, and academic reporting.*
+
+---
+
+<p align="left">
+  <img src="images/wordpress.svg" alt="Armor" width="50" />
+</p>
+
+[**Alice Anume Memorial School of Nursing**](https://aliceanume.ac.ug)  
+*A modern and responsive WordPress website designed for the Alice Anume Memorial School of Nursing.*
+
+[**Norah Apolot Community Training Hospital**](https://norahapolothospital.org)  
+*A professional WordPress website crafted for Norah Apolot Community Training Hospital to improve community healthcare engagement.*
+
+ ---
+### Blog
